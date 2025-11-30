@@ -50,6 +50,7 @@ AI_LearnMate/
 Run the following commands in your project directory:
 
 npm install
+
 npx expo install expo-linear-gradient react-native-safe-area-context react-native-screens react-native-gesture-handler @expo/vector-icons
 
 2️⃣ Start the project
